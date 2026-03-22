@@ -1,43 +1,155 @@
-### Hi there, I'm Sunindia77 👋
+# 💫 Hi 👋, I'm Suraj Satav  
+### 🚀 Senior Generative AI Engineer | React JS Developer | LLM & RAG Specialist  
 
-I'm a passionate software engineer with over 6 years of experience specializing in ReactJS front-end development. I enjoy building user-friendly web applications and am always eager to explore the latest technologies and trends in the industry.
+<p align="left">
+💡 Building scalable AI systems using LLMs, RAG pipelines & modern web technologies <br/>
+📍 Pune, India | 🇮🇳 <br/>
+📧 surajsatav1994@gmail.com  
+</p>
+---
 
-- 👀 **Interests:**  
-  I'm deeply interested in web development, particularly in modern JavaScript frameworks like ReactJS. I'm also exploring the fascinating world of Generative AI and how it can be leveraged to create innovative solutions. Besides tech, I enjoy learning about cloud computing and improving my skills in creating dynamic, data-driven applications.
+## 🧠 Professional Summary  
 
-- 🌱 **Currently Learning:**  
-  I'm diving into Generative AI, learning how to integrate it into web applications, and exploring its potential to enhance user experiences. I'm also focused on mastering advanced ReactJS patterns and building robust, scalable applications.
-
-- 💞️ **Looking to Collaborate On:**  
-  I'm looking to collaborate on projects involving ReactJS, front-end architecture, and Generative AI. If you're working on something exciting in these areas or have a project idea, let's connect! I'm particularly interested in projects that involve creating dynamic, interactive user interfaces or integrating AI into everyday applications.
-
-- 📫 **How to Reach Me:**  
-  - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/surajsatav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  - Email: [Mail](surajsatav1994@gmail.com)
+- 🚀 Generative AI Engineer with strong expertise in **LLMs, RAG, and AI Agents**
+- ⚙️ Experienced in building **production-grade AI applications** using LangChain, OpenAI & Hugging Face  
+- 🌐 Full-stack expertise with **React JS, Next.js & FastAPI**  
+- ☁️ Hands-on with **AWS, Azure, GCP** for scalable deployments  
+- 📈 Proven impact:  
+  - ⚡ Reduced latency by **40%**  
+  - 📊 Improved engagement by **30%**  
+  - 🤖 Automated reporting by **60%**  
 
 ---
 
-### 💻 Currently Working On:
-I'm currently working on a project that involves generating dynamic PDFs using Handlebars templates and Puppeteer, integrated with data visualization using D3.js. This project focuses on creating comprehensive reports by fetching data from APIs and mapping it to user-friendly formats. 
+## 🔭 Current Focus  
 
-### 🤝 Looking to Collaborate On:
-I'm eager to collaborate on:
-- **ReactJS Projects:** Whether it's building a new app from scratch or improving an existing one, I'm excited to work on challenging front-end projects.
-- **AI-Driven Applications:** Projects that integrate AI, especially in the front-end or visualization space, are of particular interest to me.
-- **Cloud-Based Solutions:** I’m also keen on projects that involve deploying secure and scalable applications on cloud platforms like Google Cloud.
+- 🧩 Designing **Agentic AI systems & Multi-Agent architectures**  
+- ⚙️ Building **end-to-end RAG pipelines (YouTube, PDFs, enterprise data)**  
+- 🚀 Optimizing **LLM performance (prompting + embeddings + caching)**  
+- ☁️ Scaling GenAI systems using **LLMOps & cloud-native architecture**  
 
-### 🤔 Looking for Help With:
-- **AI Integration:** If you have experience in applying Generative AI to real-world applications, I would love to learn from you and potentially collaborate.
-- **PDF Generation Optimization:** Always on the lookout for tips and best practices to optimize the performance of PDF generation and handling complex data visualization.
+---
 
-### 💬 Ask Me About:
-- **ReactJS:** From state management to performance optimization, feel free to ask me anything about building apps with ReactJS.
-- **PDF Generation:** I can share insights on generating dynamic PDFs with Puppeteer, Handlebars, and integrating data visualization tools like D3.js.
-- **API Integration:** I have extensive experience in integrating various APIs and ensuring robust data handling in applications.
+## 🌐 Connect With Me  
 
-### ⚡ Fun Fact:
-I’m fascinated by how technology can transform everyday tasks into seamless experiences, and I'm always on the lookout for ways to simplify complex problems through code. Also, I'm a big fan of coffee-fueled coding sessions and believe the best ideas often come with a good cup of coffee!
-<!---
-Sunindia77/Sunindia77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajsatav1994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](#)
+
+---
+
+## 💻 Tech Stack  
+
+### 🤖 Generative AI & LLMs  
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+
+**Core Concepts:**  
+`LLMs` • `RAG` • `Prompt Engineering` • `Embeddings` • `Semantic Search` • `AI Agents`
+
+---
+
+### 💻 Programming  
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)
+
+---
+
+### 🌐 Frontend Development  
+![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux)
+
+---
+
+### ⚙️ Backend & APIs  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
+
+---
+
+### 🗄️ Databases & Vector Stores  
+![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql)
+![Pinecone](https://img.shields.io/badge/pinecone-black?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/faiss-orange?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/chromadb-purple?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/gcp-red?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge)
+
+---
+
+## 🚀 Key Projects  
+
+### 🧠 GenAI Dashboard (DNB Project)  
+- Built AI-powered dashboard for automated insights  
+- Integrated **LangChain + OpenAI APIs**  
+- Developed **interactive React UI**  
+- 📉 Reduced manual effort by **60%**  
+
+---
+
+### 🤖 AI Chatbot Systems  
+- Developed **context-aware chatbots using RAG pipelines**  
+- Integrated **vector databases (FAISS, Pinecone)**  
+- Improved response accuracy & reduced hallucinations  
+
+---
+
+### 📄 Document Intelligence System  
+- Built system for **PDF/Text ingestion & semantic search**  
+- Implemented **embedding pipelines + retrieval systems**  
+- Enabled real-time AI Q&A on enterprise data  
+
+---
+
+## 📊 GitHub Analytics  
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
+## 🧭 Career Journey  
+
+- 🏢 **Virtusa (2021–Present)** → GenAI Engineer  
+- 💻 **Pratham Software** → Software Engineer  
+- ⚙️ **Syneotek** → Software Engineer  
+- 🛠️ **Infosys** → Technical Support Engineer  
+
+---
+
+## 🏆 Achievements  
+
+- ⚡ Reduced AI latency by **40%**  
+- 📈 Increased user engagement by **30%**  
+- 🤖 Automated reporting workflows by **60%**  
+- 🚀 Built scalable production-grade AI systems  
+
+---
+
+## ✍️ Quote  
+
+_"Engineering the future with AI, one intelligent system at a time."_ 🚀  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6)](https://visitcount.itsvg.in)
