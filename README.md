@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suraj Satav  
-### 🚀 Senior Generative AI Engineer | React JS Developer | LLM & RAG Specialist  
+### 🚀 Senior Generative AI Engineer | LLM & RAG Specialist  
 
 <p align="left">
 💡 Building scalable AI systems using LLMs, RAG pipelines & modern web technologies <br/>
